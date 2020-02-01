@@ -9,3 +9,5 @@ module "jenkins_master" {
    instance_type 	= 	"${var.instance_type}"
    ssh_key_location 	= 	"${var.ssh_key_location}"
 }
+
+
