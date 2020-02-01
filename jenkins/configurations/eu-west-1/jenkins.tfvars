@@ -1,11 +1,11 @@
 # Below code is used to set backend only
-s3_bucket                       =	"acirrustech-iaac"
-s3_folder_region                =	"us-east-1"
-vpc_id		    	            =	"vpc-1471ad6e"
-zone_id			                =	"Z32OHGRMBVZ9LR" 
-domain			                =	"acirrustech.com"
-base_domain			            =	"acirrustech.com"
-region 			                = 	"us-east-1"
+s3_bucket                       =	"mahsuda.net"
+s3_folder_region                =	"eu-west-1"
+vpc_id		    	            =	"vpc-2deaff4b"
+zone_id			                =	"Z180QC6O3SYROP" 
+domain			                =	"maqsudat.net"
+base_domain			        =	"maqsudat.net"
+region 			                = 	"eu-west-1"
 
 
 # Please do not change below
